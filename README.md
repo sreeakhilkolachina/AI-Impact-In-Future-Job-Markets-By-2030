@@ -1,4 +1,4 @@
-# AI-Impact-in-Future-Job-Markets-by-2030
+# AI-Impact-In-Future-Job-Markets-By-2030
 
 Overview of the Project:
 
