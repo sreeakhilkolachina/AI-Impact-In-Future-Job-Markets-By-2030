@@ -12,6 +12,7 @@ Dashboard / Sheet – 2: Overall Overview.
 
 Dashboard / Sheet – 3: AI Impact Analysis.
 
+
 Introduction:
 
 • Artificial Intelligence has become one of the most transformative technologies in today's world. Organizations and Industries are adopting to AI - powered tools and automations to improve efficiency, enhance productivity, and support data – driven and decision – making. While these advancements create new opportunities, but it also introduce challenges such as workforce transformation, changing job requirements, skill gaps, and concerns regarding job displacement.
